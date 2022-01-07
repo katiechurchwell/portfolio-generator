@@ -1,4 +1,4 @@
-//mock data
+// MOCK DATA
 const mockData = {
   name: "Lernantino",
   github: "lernantino",
@@ -195,5 +195,5 @@ Add a New Project
 //     // });
 //   });
 
-//mock data prompt
+// MOCK DATA PROMPT
 const pageHTML = generatePage(mockData);
